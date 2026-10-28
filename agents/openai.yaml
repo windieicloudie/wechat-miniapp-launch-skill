@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信小程序从设计到上架"
+  short_description: "规划、开发、真机验证并完成微信小程序注册备案与提审"
+  default_prompt: "使用 $wechat-miniapp-launch 帮我从零规划并上线一个微信小程序。"
